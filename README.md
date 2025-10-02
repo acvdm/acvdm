@@ -1,8 +1,8 @@
 ## Bienvenue sur mon Github 👋
-<br>
+<br><br>
 ### Étudiante à 42 Paris | Diplômée de l'emlyon business school | Futur Data Analyst
 🎯 Actuellement en train de construire un pont entre le code bas niveau et l'analyse de données — parce que comprendre comment fonctionnent les systèmes rend meilleur pour analyser leurs outputs.
-<br><br><br>
+<br><br>
 
 
 ### 🚀 Ce que je fais
@@ -11,7 +11,7 @@
 📊 **Transition vers la Data** : Apprentissage SQL, Python data, visualisation
 
 💡 **Objectif** : Stage Data Analyst pour février-mars 2026
-<br><br><br>
+<br><br>
 
 
 ### 🛠️ Stack Technique
@@ -21,7 +21,7 @@ C • C++ • Unix/Linux • Git • Algorithmes • Réseau • Structures de d
 #### **Data (en construction)**: 
 Python (pandas, numpy, matplotlib) • SQL (PostgreSQL) • Jupyter
 Power BI • Data Cleaning • Exploratory Data Analysis
-<br><br><br>
+<br><br>
 
 
 ### 📍 Basée à Paris
