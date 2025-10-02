@@ -6,7 +6,9 @@
 
 ## 🚀 Ce que je fais
 📚 **École 42** : Tronc commun — Webserv en cours, ft_transcendence à venir
+
 📊 **Transition vers la Data** : Apprentissage SQL, Python data, visualisation
+
 💡 **Objectif** : Stage Data Analyst pour fevrier-mars 2026
 
 
