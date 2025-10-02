@@ -1,5 +1,5 @@
 ## Bienvenue sur mon Github 👋
-<br><br><br>
+<br><br>
 
 ### Étudiante à 42 Paris | Diplômée de l'emlyon business school | Futur Data Analyst
 🎯 Actuellement en train de construire un pont entre le code bas niveau et l'analyse de données — parce que comprendre comment fonctionnent les systèmes rend meilleur pour analyser leurs outputs.
