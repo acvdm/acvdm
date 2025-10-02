@@ -1,4 +1,4 @@
-## Bienvenue sur mon Github
+## 👋 Bienvenue sur mon Github
 <br>
 
 ### Étudiante à 42 Paris | Diplômée de l'emlyon business school | Future Data Analyst
