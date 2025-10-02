@@ -10,16 +10,14 @@
 
 📊 **Transition vers la Data** : Apprentissage SQL, Python data, visualisation
 
-💡 **Objectif** : Stage Data Analyst pour fevrier-mars 2026
+💡 **Objectif** : Stage Data Analyst pour février-mars 2026
 
 
 
 ## 🛠️ Stack Technique
-**De 42**
-C • C++ • Unix/Linux • Git • Algorithmes • Réseau • Structures de données
+### **De 42**: C • C++ • Unix/Linux • Git • Algorithmes • Réseau • Structures de données
 
-**Data (en construction)**
-Python (pandas, numpy, matplotlib) • SQL (PostgreSQL) • Jupyter
+### **Data (en construction)**: Python (pandas, numpy, matplotlib) • SQL (PostgreSQL) • Jupyter
 Power BI • Data Cleaning • Exploratory Data Analysis
 
 
