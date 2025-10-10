@@ -1,8 +1,8 @@
 ## 👋 Bienvenue sur mon Github
 <br>
 
-### Étudiante à 42 Paris | Diplômée de l'emlyon business school | Future Data Analyst
-🎯 Actuellement en train de construire un pont entre le code bas niveau et l'analyse de données — parce que comprendre comment fonctionnent les systèmes rend meilleur pour analyser leurs outputs.
+### Étudiante à 42 Paris | Diplômée de l'emlyon business school
+🎯 Profil hybride entre ingénierie et analyse de données — à l’aise aussi bien avec la construction des pipelines qu’avec l’exploration et l’interprétation des données.
 <br><br>
 
 
