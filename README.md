@@ -2,7 +2,7 @@
 <br>
 
 ### Étudiante à 42 Paris | Diplômée de l'emlyon business school
-🎯 Profil hybride entre ingénierie et analyse de données — à l’aise aussi bien avec la construction des pipelines qu’avec l’exploration et l’interprétation des données.
+🎯 Profil hybride entre ingénierie et analyse de données — intéressée par la construction des pipelines, l’exploration et l’interprétation des données.
 <br><br>
 
 
