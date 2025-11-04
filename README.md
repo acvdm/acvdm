@@ -7,11 +7,11 @@
 
 
 ### 🚀 Ce que je fais
-📚 **École 42** : Tronc commun — *Webserv* en cours, *ft_transcendence* à venir
+📚 **École 42** : Tronc commun — *ft_transcendence* en cours
 
 📊 **Transition vers la Data** : Apprentissage SQL, Python data, visualisation
 
-💡 **Objectif** : Stage Data Analyst pour février-mars 2026
+💡 **Objectif** : poste Data engineer-analytics pour février-mars 2026
 <br><br>
 
 
@@ -20,8 +20,7 @@
 C • C++ • Unix/Linux • Git • Algorithmes • Réseau • Structures de données
 
 #### **Data (en construction)**: 
-Python (pandas, numpy, matplotlib) • SQL (PostgreSQL) • Jupyter
-Power BI • Data Cleaning • Exploratory Data Analysis
+Python (pandas, numpy, matplotlib) • SQL
 <br><br>
 
 
