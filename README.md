@@ -11,7 +11,7 @@
 
 📊 **Transition vers la Data** : Apprentissage SQL, Python data, visualisation
 
-💡 **Objectif** : poste Data engineer-analytics pour février-mars 2026
+💡 **Objectif** : poste Data engineer-analytics pour janvier 2026
 <br><br>
 
 
