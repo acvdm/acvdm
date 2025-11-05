@@ -23,6 +23,3 @@ C • C++ • Unix/Linux • Git • Algorithmes • Réseau • Structures de d
 Python (pandas, numpy, matplotlib) • SQL
 <br><br>
 
-
-### 📍 Basée à Paris
-🔗 LinkedIn: www.linkedin.com/in/anne-charlotte-vandermolen-265802a9
