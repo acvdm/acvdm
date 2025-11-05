@@ -9,7 +9,7 @@
 ### 🚀 Ce que je fais
 📚 **École 42** : Tronc commun — *ft_transcendence* en cours
 
-📊 **Transition vers la Data** : Apprentissage SQL, Python data, visualisation
+📊 **Transition vers la Data** : Apprentissage SQL, Python
 
 💡 **Objectif** : poste Data engineer-analytics pour janvier 2026
 <br><br>
