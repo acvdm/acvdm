@@ -1,23 +1,20 @@
 ## 👋 Bienvenue sur mon Github
 <br>
 
-### Étudiante à 42 Paris | Diplômée de l'emlyon business school
-🎯 Je souhaite renforcer mes compétences en conception et développement de chaînes de traitement de données complètes, de la collecte à l’analyse, afin de rendre les données accessibles, structurées et exploitables pour les équipes techniques et métier
+### Étudiante à 42 Paris
+🎯 Ancien manager d'une équipe opérationnelle dans une adtech et référente métier pour  l'équipe technique, je combine vision produit, compréhension des usages et fondamentaux techniques solides acquis à 42 (C/C++, SQL, Docker, Git).
+Je recherche un poste de software engineer pour développer mes compétences en conception d'API, architectures systèmes et DevOps.
 <br><br>
 
 
 ### 🚀 Ce que je fais
 📚 **École 42** : Tronc commun — *ft_transcendence* en cours
 
-💡 **Objectif** : Ingénieure Data / Logiciel à partir de janvier 2026
+💡 **Objectif** : Software engineer à partir de janvier 2026
 <br><br>
 
 
 ### 🛠️ Stack Technique
 #### **De 42**: 
-C • C++ • Unix/Linux • Git • Algorithmes • Réseau • Structures de données
-
-#### **En construction**: 
-SQL • Python
-<br><br>
+C • C++ • Unix/Linux • Git • SQL
 
